@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime   #importing datetime class from datetime module
 
 date_object = datetime.now()
 print(date_object)
